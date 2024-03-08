@@ -1,5 +1,11 @@
-# Hi there 👋
-
+![GitHub Banner](./GitHubBanner.png)
+# 👋 Hey Y'all
+This is `Gedam Subhash` a Technological Enthusiast, a Persistent Developer.
+An open minded person with interest in Technology and I like engaging with new people.
+## 💻Tech Stack and Tools
+- **Languages**: C, C++, Python, Java, HTML, CSS, JavaScript ...
+- **Libraries & Frameworks**: JQuery, Bootstrap, Hibernate, Spring ...
+- **Tools and Platforms**: Git, GitHub, Vscode, Eclipse ...
 ## 🤝Socials
 - **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/subhash-gedam/)
 - **X:** [Hit me up at X](https://twitter.com/swaggyhustler)
