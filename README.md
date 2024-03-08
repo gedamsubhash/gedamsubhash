@@ -1,4 +1,6 @@
 ![GitHub Banner](./GitHubBanner.png)
+![Static Badge](https://img.shields.io/badge/swaggy-hustler-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/cyberpunk-red?style=flat)
 # 👋 Hey Y'all
 This is `Gedam Subhash` a Technological Enthusiast, a Persistent Developer.
 An open minded person with interest in Technology and I like engaging with new people.
