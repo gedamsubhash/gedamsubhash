@@ -12,7 +12,7 @@ An open minded person with interest in Technology and I like engaging with new p
 - **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/subhash-gedam/)
 - **X:** [Hit me up at X](https://twitter.com/swaggyhustler)
 ## 📈GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gedamsubhash&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/gedamsubhash)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=swaggyhustler&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/swaggyhustler)
 <!--
 **gedamsubhash/gedamsubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
